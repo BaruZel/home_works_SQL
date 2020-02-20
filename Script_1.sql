@@ -3,11 +3,9 @@ AS
 SELECT *
 FROM customer c 
 
-;
-SELECT *
-FROM customer_new cn 
 
 ;
+
 
 
 
